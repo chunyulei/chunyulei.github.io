@@ -7,10 +7,10 @@ Hi there! My name is Chunyu Lei. I received my B.S. degree in computer science a
 
 大家好！我叫雷春雨。我于2020在中国郑州的郑州大学获计算机科学与技术专业学士学位。我目前在中国广州的华南理工大学攻读计算机科学与技术专业博士学位。我的研究工作由[陈俊龙](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm)教授（欧洲科学院院士、IEEE会士）和[张通](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm)教授（国家优青）共同指导。
 
-#### <i class="fa fa-envelope"></i> Contact 联系方式
+#### <i class="fa fa-envelope"></i> 📫 Contact 联系方式
 Email: cscylei[at]gmail.com
 
-#### <i class="fa fa-graduation-cap"></i> Education 教育背景
+#### <i class="fa fa-graduation-cap"></i> 🎓 Education 教育背景
 - 2020.09-2026.06, Ph.D. in Computer Science and Technology, South China University of Technology, Guangzhou, China\
 2020年9月–2026年6月，博士，计算机科学与技术，华南理工大学，广州，中国
 - 2016.09-2020.06, B.S. in Computer Science and Technology, Zhengzhou University, Zhengzhou, China\
