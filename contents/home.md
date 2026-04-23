@@ -4,9 +4,9 @@
 [![orcid](https://img.shields.io/badge/ORCID-grey?logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0001-8072-1750)
 [![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/chunyulei)
 
-Hi there! My name is Chunyu Lei. I received my B.S. degree in computer science and technology from [Zhengzhou University](https://www.zzu.edu.cn/), Zhengzhou, China, in 2020. I am currently pursuing my Ph.D. degree in computer science and technology at [South China University of Technology](https://www.scut.edu.cn/new/), Guangzhou, China. My research is conducted under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea，IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist).
+Hi there! My name is Chunyu Lei. I received my B.S. degree in computer science and technology from Zhengzhou University, Zhengzhou, China, in 2020. I am currently pursuing my Ph.D. degree in computer science and technology at South China University of Technology, Guangzhou, China. My research is conducted under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea，IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist).
 
-大家好！我叫雷春雨。我于2020在中国郑州的郑州大学获计算机科学与技术专业学士学位。我目前在中国广州的华南理工大学攻读计算机科学与技术专业博士学位。我的研究工作由陈俊龙教授（欧洲科学院院士、IEEE会士）和张通教授（国家优青）共同指导。
+大家好！我叫雷春雨。我于2020在中国郑州的郑州大学获计算机科学与技术专业学士学位。我目前在中国广州的华南理工大学攻读计算机科学与技术专业博士学位。我的研究工作由[陈俊龙](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm)教授（欧洲科学院院士、IEEE会士）和[张通](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm)教授（国家优青）共同指导。
 
 
 
