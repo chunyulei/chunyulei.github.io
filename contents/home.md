@@ -15,9 +15,9 @@ Hi there! My name is Chunyu Lei. I received my B.S. degree in computer science a
 Email: cscylei[at]gmail.com
 
 #### Education
-2020.09-2026.06, Ph.D. in Computer Science and Technology, South China University of Technology, Guangzhou, China\
+- 2020.09-2026.06, Ph.D. in Computer Science and Technology, South China University of Technology, Guangzhou, China\
 2020年9月–2026年6月，博士，计算机科学与技术，华南理工大学，广州，中国\
-2016.09-2020.06, B.S. in Computer Science and Technology, Zhengzhou University, Zhengzhou, China\
+- 2016.09-2020.06, B.S. in Computer Science and Technology, Zhengzhou University, Zhengzhou, China\
 2016年9月–2020年6月，学士，计算机科学与技术，郑州大学，郑州，中国
 
 #### Research Interests
