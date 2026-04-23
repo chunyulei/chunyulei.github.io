@@ -12,7 +12,7 @@
 
 - Tong Zhang, <strong>Chunyu Lei</strong>, Zongyan Zhang, Xian-Bing Meng*, and C. L. Philip Chen*, "AS-NAS: Adaptive Scalable Neural Architecture Search With Reinforced Evolutionary Algorithm for Deep Learning," in <strong>IEEE Transactions on Evolutionary Computation</strong>, vol. 25, no. 5, pp. 830-841, Oct. 2021. (导师一作，中科院1区Top，影响因子：12.0) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9360872)
 
-- Guang-Ze Chen, <strong>Chunyu Lei</strong>, Zhulin Liu, C. L. Philip Chen, Hai-Wei Sun, "Efficient incremental learning for Inverse Matrix-Free broad learning system", in <strong>Information Fusion</strong>, Volume 127, Part B, Mar. 2026, 103842. (中科院1区Top，影响因子：15.5) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525009042)
+- Guang-Ze Chen, <strong>Chunyu Lei</strong>, Zhulin Liu, C. L. Philip Chen, and Hai-Wei Sun, "Efficient incremental learning for Inverse Matrix-Free broad learning system", in <strong>Information Fusion</strong>, Volume 127, Part B, Mar. 2026, 103842. (中科院1区Top，影响因子：15.5) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525009042)
 
 
 
