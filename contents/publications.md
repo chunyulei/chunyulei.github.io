@@ -1,8 +1,8 @@
-#### Submitted
+#### Submitted 已投稿
 
 - <strong>Chunyu Lei</strong>, C. L. Philip Chen, Zhulin Liu, and Tong Zhang*, "BGLBLS: Balanced globality-locality manifold regularized broad learning system for visual recognition," in <strong>Pattern Recognition</strong>, Under Review. (中科院1区Top，影响因子：7.6)
 
-#### Published
+#### Published 已发表
 
 - <strong>Chunyu Lei</strong>, Guang-Ze Chen, C. L. Philip Chen, and Tong Zhang*, "An accurate and efficient online broad learning system for data stream classification," in <strong>SCIENCE CHINA Information Sciences</strong>, vol. 69, no. 3, Mar. 2026, 139101. (第一作者，CCF-A，中科院1区Top，影响因子：7.6) [[Paper]](https://link.springer.com/article/10.1007/s11432-025-4673-5)
 
