@@ -16,11 +16,11 @@ Email: cscylei[at]gmail.com
 
 #### Education
 2020.09-2026.06, Ph.D. in Computer Science and Technology, South China University of Technology, Guangzhou, China.\
-2020年9月–2026年6月，华南理工大学，计算机科学与技术，博士，广州，中国
-2016.09-2020.06, B.S. in Computer Science and Technology, Zhengzhou University, Zhengzhou, China.
+2020年9月–2026年6月，华南理工大学，计算机科学与技术，博士，广州，中国\
+2016.09-2020.06, B.S. in Computer Science and Technology, Zhengzhou University, Zhengzhou, China.\
 2016年9月–2020年6月，郑州大学，计算机科学与技术，学士，郑州，中国
 
 #### Research Interests
-Continual Learning; Foundation Models; Affective Computing; Broad Learning Systems; Neural Architecture Search
+Continual Learning; Foundation Models; Affective Computing; Broad Learning Systems; Neural Architecture Search\
 持续学习；基础模型；情感计算；宽度学习系统；神经架构搜索
 
