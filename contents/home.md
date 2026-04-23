@@ -28,3 +28,12 @@ Email: cscylei[at]gmail.com
 Continual Learning; Foundation Models; Affective Computing; Broad Learning Systems; Neural Architecture Search\
 持续学习；基础模型；情感计算；宽度学习系统；神经架构搜索
 
+#### Academic Services 学术服务
+##### Journal Reviewer 期刊审稿人
+- IEEE Transactions on Affective Computing
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Artificial Intelligence
+- IEEE Transactions on Cognitive and Developmental Systems
+
+
