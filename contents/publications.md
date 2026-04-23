@@ -12,5 +12,7 @@
 
 - A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Tong Zhang, <strong>Chunyu Lei</strong>, Zongyan Zhang, Xian-Bing Meng and C. L. Philip Chen, "AS-NAS: Adaptive Scalable Neural Architecture Search With Reinforced Evolutionary Algorithm for Deep Learning," in <strong>IEEE Transactions on Evolutionary Computation</strong>, vol. 25, no. 5, pp. 830-841, Oct. 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9360872)
+
+
 

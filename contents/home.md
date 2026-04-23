@@ -6,7 +6,7 @@ I received the B.S. degree in computer science and technology from [Zhengzhou Un
 
 #### Contact
 
-Email: cscylei@gmail.com
+Email: cscylei[at]gmail.com
 
 #### Education
 M.E., Computer Science and Technology, South China University of Technology, 2020—2026.\
