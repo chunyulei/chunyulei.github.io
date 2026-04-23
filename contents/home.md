@@ -37,3 +37,8 @@ Continual Learning; Foundation Models; Affective Computing; Broad Learning Syste
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Artificial Intelligence
 - IEEE Transactions on Cognitive and Developmental Systems
+
+##### Conference Reviewer 会议审稿人
+
+- IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+
