@@ -1,61 +1,96 @@
-## Introduction
+﻿# Chunyu Lei's Homepage
 
-This personal academic website template is based on [startbootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+This is the source code for [Chunyu Lei](https://chunyulei.github.io)'s personal academic website, hosted on GitHub Pages at [chunyulei.github.io](https://chunyulei.github.io).
 
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
+## About the Owner
 
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
+**Chunyu Lei (雷春雨)** is a Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), co-supervised by Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea, IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist). His research interests include:
 
+- Continual Learning
+- Foundation Models
+- Affective Computing
+- Broad Learning Systems
+- Neural Architecture Search
 
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
+## Features
 
+- **Markdown-driven content** — Write content in Markdown files; no build or compilation step required.
+- **LaTeX math support** — Inline math with `$...$` or `\(...\)`, display math with `$$...$$` or `\[...\]`, plus macros like `\ref{}`, `\eqref{}`, and `\begin{equation}`.
+- **Responsive design** — Built on Bootstrap 5, mobile-friendly out of the box.
+- **Zero server dependency** — Fully static; deploy to GitHub Pages, Netlify, or any static file server.
 
-### 2. Edit page content
+## Directory Structure
 
-(1) Go to the folder where you want to store your project, and clone the new repository:
+```
+.
+├── contents/
+│   ├── config.yml        # Site configuration (title, subtitle, copyright)
+│   ├── home.md           # Biography, contact, education, experience, services
+│   ├── publications.md   # Published & submitted papers
+│   ├── fundings.md       # Research funding
+│   └── awards.md         # Awards & honors
+├── static/
+│   ├── assets/
+│   │   ├── favicon.ico
+│   │   ├── photo.jpg     # Avatar photo
+│   │   └── background.jpeg  # Top section background
+│   ├── css/
+│   │   ├── styles.css    # Bootstrap + Base styles
+│   │   └── main.css      # Custom styles
+│   └── js/
+│       ├── scripts.js          # Core logic (YAML + Markdown loading)
+│       ├── marked.min.js       # Markdown parser
+│       ├── js-yaml.min.js      # YAML parser
+│       └── bootstrap.bundle.min.js  # Bootstrap
+├── index.html            # Entry point
+├── LICENSE               # MIT License
+└── README.md
+```
+
+## Getting Started (as a template)
+
+This site can be used as a template for your own academic homepage.
+
+### 1. Fork the repository
+
+Create a repository named `<username>.github.io` (this will be your website URL).
+
+### 2. Clone and customize
+
 ```
 git clone https://github.com/<username>/<username>.github.io.git
 ```
-The directory structure is as follows:
 
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
-```
+Edit the following files to personalize your site:
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+| File | Purpose |
+|------|---------|
+| `contents/config.yml` | Site title, navigation text, copyright |
+| `contents/home.md` | Your biography, contact, education, etc. |
+| `contents/publications.md` | Publication list |
+| `contents/fundings.md` | Research funding information |
+| `contents/awards.md` | Awards and honors |
+| `static/assets/photo.jpg` | Your avatar photo |
+| `static/assets/background.jpeg` | Hero section background image |
 
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+### 3. Deploy to GitHub Pages
 
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+1. Go to your repository **Settings** → **Pages**.
+2. Under **Source**, select **Deploy from a branch**.
+3. Choose the `main` (or `master`) branch and root folder.
+4. Your site will be live at `https://<username>.github.io`.
 
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
+> Changes may take up to 10 minutes to publish after pushing.
 
-### 3. Setup
-(1) Under your repository name, click `Settings`.
+## Technical Details
 
-(2) In the "Code and automation" section of the sidebar, click `Pages`.
-
-(3) Under "Build and deployment", under "Source", select Deploy from a branch. Then, use the branch dropdown menu and select a publishing source.
-
-### 4. Enjoy
-
-Fire up a browser and go to `https://<username>.github.io`
-
-> Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
-
+- **Markdown rendering** — [marked.js](https://marked.js.org/) parses `.md` files client-side.
+- **YAML config** — [js-yaml](https://github.com/nodeca/js-yaml) loads `config.yml` for dynamic page text.
+- **Math typesetting** — [MathJax 3](https://docs.mathjax.org/en/latest/index.html) renders LaTeX formulas with SVG output.
+- **Layout** — [Bootstrap 5](https://getbootstrap.com/) via [Start Bootstrap - New Age](https://github.com/StartBootstrap/startbootstrap-new-age) theme.
 
 ## License
 
-Copyright Sen Li, 2023-2026. Licensed under an MIT license. You can copy and mess with this template.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copyright © 2023–2026 Sen Li (original template). Content and modifications © Chunyu Lei 2025–2026.
