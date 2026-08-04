@@ -34,6 +34,7 @@ Continual Learning; Foundation Models; Affective Computing; Broad Learning Syste
 
 - IEEE Transactions on Affective Computing
 - IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Artificial Intelligence
 - IEEE Transactions on Cognitive and Developmental Systems
