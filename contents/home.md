@@ -3,9 +3,9 @@
 [![orcid](https://img.shields.io/badge/ORCID-grey?logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0001-8072-1750)
 [![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/chunyulei)
 
-Hi there! I am Chunyu Lei, an Associate Professor (initial appointment) at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am a member of the [Engineering Research Center of Intelligent Swarm Systems, Ministry of Education](https://www7.zzu.edu.cn/csai/info/1124/3021.htm), led by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1219/2959.htm). I received my Ph.D. degree in computer science and technology from South China University of Technology in June 2026, under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea, IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist). I received my B.S. degree in computer science and technology from Zhengzhou University in 2020.
+Hi there! I am Chunyu Lei, an Associate Professor (initial appointment) at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, led by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1219/2959.htm) (recipient of the National Science Fund for Distinguished Young Scholars). I received my Ph.D. degree in computer science and technology from South China University of Technology in June 2026, under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea, IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist). I received my B.S. degree in computer science and technology from Zhengzhou University in 2020.
 
-你好！我叫雷春雨，现任郑州大学计算机与人工智能学院初聘副教授，加入由[徐明亮](https://www7.zzu.edu.cn/csai/info/1219/2959.htm)教授领导的[智能集群系统教育部工程研究中心](https://www7.zzu.edu.cn/csai/info/1124/3021.htm)。我于2026年6月获华南理工大学计算机科学与技术专业博士学位，博士期间由[陈俊龙](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm)教授（欧洲科学院院士、IEEE会士）和[张通](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm)教授（国家优青）共同指导；2020年获郑州大学计算机科学与技术专业学士学位。
+你好！我叫雷春雨，现任郑州大学计算机与人工智能学院初聘副教授，加入由[徐明亮](https://www7.zzu.edu.cn/csai/info/1219/2959.htm)教授（国家杰青）领导的智能集群系统教育部工程研究中心。我于2026年6月获华南理工大学计算机科学与技术专业博士学位，博士期间由[陈俊龙](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm)教授（欧洲科学院院士、IEEE会士）和[张通](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm)教授（国家优青）共同指导；2020年获郑州大学计算机科学与技术专业学士学位。
 
 #### <i class="fa fa-envelope"></i> Contact 联系方式
 
@@ -20,8 +20,8 @@ Email: [cscylei@zzu.edu.cn](mailto:cscylei@zzu.edu.cn)
 
 #### <i class="fa fa-briefcase"></i> Work Experience 工作经历
 
-- Associate Professor (Initial Appointment), School of Computer Science and Artificial Intelligence, Zhengzhou University; Engineering Research Center of Intelligent Swarm Systems, Ministry of Education, Zhengzhou, China\
-  初聘副教授，郑州大学计算机与人工智能学院，智能集群系统教育部工程研究中心，郑州，中国
+- 2026.11-present, Associate Professor (Initial Appointment), School of Computer Science and Artificial Intelligence, Zhengzhou University, Zhengzhou, China\
+  2026年11月–至今，初聘副教授，郑州大学计算机与人工智能学院，郑州，中国
 - 2022.05-2026.06, Intern, Research Center for AI Large Models and Intelligent Cognition, Pazhou Lab, Guangzhou, China\
   2022年5月–2026年6月，实习生，AI大模型与智能认知研究中心，琶洲实验室，广州，中国
 
