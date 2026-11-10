@@ -4,7 +4,7 @@ This is the source code for [Chunyu Lei](https://chunyulei.github.io)'s personal
 
 ## About the Owner
 
-**Chunyu Lei (雷春雨)** is an Associate Professor (initial appointment) at the School of Computer Science and Artificial Intelligence, Zhengzhou University, and a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, led by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1219/2959.htm) (recipient of the National Science Fund for Distinguished Young Scholars). He received his Ph.D. in Computer Science and Technology from South China University of Technology (SCUT) in June 2026, under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm). His research interests include:
+**Chunyu Lei (雷春雨)** is an Associate Professor (initial appointment) at the School of Computer Science and Artificial Intelligence, Zhengzhou University, and a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, led by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1219/2959.htm) (recipient of the National Science Fund for Distinguished Young Scholars). He received his Ph.D. in Computer Science and Technology from South China University of Technology (SCUT) in 2026, under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm). His research interests include:
 
 - Continual Learning
 - Foundation Models
