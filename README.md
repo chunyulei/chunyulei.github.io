@@ -4,7 +4,7 @@ This is the source code for [Chunyu Lei](https://chunyulei.github.io)'s personal
 
 ## About the Owner
 
-**Chunyu Lei (雷春雨)** is a Ph.D. candidate in Computer Science and Technology at South China University of Technology (SCUT), co-supervised by Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) (Member of Academia Europaea, IEEE Fellow) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm) (National Outstanding Young Scientist). His research interests include:
+**Chunyu Lei (雷春雨)** is an Associate Professor (initial appointment) at the School of Computer Science and Artificial Intelligence, Zhengzhou University, and a member of the [Engineering Research Center of Intelligent Swarm Systems, Ministry of Education](https://www7.zzu.edu.cn/csai/info/1124/3021.htm), led by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1219/2959.htm). He received his Ph.D. in Computer Science and Technology from South China University of Technology (SCUT) in June 2026, under the co-supervision of Prof. [C. L. Philip Chen](https://www2.scut.edu.cn/cs/2024/0619/c22284a557049/page.htm) and Prof. [Tong Zhang](https://www2.scut.edu.cn/cs/2021/0317/c22284a422099/page.htm). His research interests include:
 
 - Continual Learning
 - Foundation Models
