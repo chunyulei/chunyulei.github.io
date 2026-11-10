@@ -9,7 +9,7 @@ Hi there! My name is Chunyu Lei. I received my B.S. degree in computer science a
 
 #### <i class="fa fa-envelope"></i> Contact 联系方式
 
-Email: cscylei[at]gmail.com
+Email: [cscylei@zzu.edu.cn](mailto:cscylei@zzu.edu.cn)
 
 #### <i class="fa fa-graduation-cap"></i>  Education 教育背景
 
